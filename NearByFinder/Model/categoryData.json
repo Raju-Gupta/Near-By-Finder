@@ -1,0 +1,387 @@
+
+{
+    "categories":
+    [
+        {
+            "name": "airport",
+            "icon": "airport",
+            "red": 90,
+            "green": 200,
+            "blue": 250
+        },
+        {
+            "name": "atm",
+            "icon": "atm",
+            "red": 142,
+            "green": 250,
+            "blue":0
+        },
+        {
+            "name": "bank",
+            "icon": "bank",
+            "red":  142,
+            "green": 250,
+            "blue": 0
+        },
+        {
+            "name": "bar",
+            "icon": "bar",
+            "red":  255,
+            "green": 64,
+            "blue": 255
+        },
+        {
+            "name": "beauty salon",
+            "icon": "beauty_salon",
+            "red": 142,
+            "green": 138,
+            "blue": 216
+        },
+        {
+            "name": "book store",
+            "icon": "book_store",
+            "red": 151,
+            "green": 124,
+            "blue": 234
+        },
+        {
+            "name": "bus station",
+            "icon": "bus_station",
+            "red": 255,
+            "green": 200,
+            "blue": 69
+        },
+        {
+            "name": "cafe",
+            "icon": "cafe",
+            "red": 197,
+            "green": 175,
+            "blue": 109
+        },
+        {
+            "name": "car rental",
+            "icon": "car_rental",
+            "red": 159,
+            "green": 35,
+            "blue": 159
+        },
+        {
+            "name": "car repair",
+            "icon": "car_repair",
+            "red": 52,
+            "green": 199,
+            "blue": 89
+        },
+        {
+            "name": "car wash",
+            "icon": "car_wash",
+            "red": 255,
+            "green": 55,
+            "blue": 1
+        },
+        {
+            "name": "church",
+            "icon": "church",
+            "red": 90,
+            "green": 200,
+            "blue": 250
+        },
+        {
+            "name": "clothing store",
+            "icon": "clothing_store",
+            "red": 255,
+            "green": 85,
+            "blue": 250
+        },
+        {
+            "name": "dentist",
+            "icon": "dentist",
+            "red": 90,
+            "green": 200,
+            "blue": 250
+        },
+        {
+            "name": "department store",
+            "icon": "department_store",
+            "red": 90,
+            "green": 200,
+            "blue": 73
+        },
+        {
+            "name": "doctor",
+            "icon": "doctor",
+            "red": 90,
+            "green": 200,
+            "blue": 250
+        },
+        {
+            "name": "electronics store",
+            "icon": "electronics_store",
+            "red": 160,
+            "green": 139,
+            "blue": 250
+        },
+        {
+            "name": "embassy",
+            "icon": "embassy",
+            "red": 0,
+            "green": 107,
+            "blue": 250
+        },
+        {
+            "name": "florist",
+            "icon": "florist",
+            "red": 255,
+            "green": 53,
+            "blue": 255
+        },
+        {
+            "name": "food store",
+            "icon": "food_store",
+            "red": 142,
+            "green": 250,
+            "blue": 183
+        },
+        {
+            "name": "gas station",
+            "icon": "gas_station",
+            "red": 255,
+            "green": 200,
+            "blue": 190
+        },
+        {
+            "name": "gurudwara",
+            "icon": "gurudwara",
+            "red": 90,
+            "green": 200,
+            "blue": 0
+        },
+        {
+            "name": "grocery or supermarket",
+            "icon": "grocery_or_supermarket",
+            "red": 81,
+            "green": 180,
+            "blue": 69
+        },
+        {
+            "name": "gym",
+            "icon": "gym",
+            "red": 80,
+            "green": 179,
+            "blue": 250
+        },
+        {
+            "name": "health",
+            "icon": "health",
+            "red": 142,
+            "green": 250,
+            "blue": 255
+        },
+        {
+            "name": "hindu temple",
+            "icon": "hindu_temple",
+            "red": 90,
+            "green": 200,
+            "blue": 152
+        },
+        {
+            "name": "hospital",
+            "icon": "hospital",
+            "red": 255,
+            "green": 64,
+            "blue": 0
+        },
+        {
+            "name": "hotel",
+            "icon": "hotel",
+            "red": 160,
+            "green": 139,
+            "blue": 250
+        },
+        {
+            "name": "libary",
+            "icon": "libary",
+            "red": 255,
+            "green": 64,
+            "blue": 255
+        },
+        {
+            "name": "liquor store",
+            "icon": "liquor_store",
+            "red": 255,
+            "green": 64,
+            "blue": 255
+        },
+        {
+            "name": "lodging",
+            "icon": "lodging",
+            "red": 52,
+            "green": 199,
+            "blue": 255
+        },
+        {
+            "name": "mosque",
+            "icon": "mosque",
+            "red": 255,
+            "green": 200,
+            "blue": 255
+        },
+        {
+            "name": "movie theater",
+            "icon": "movie_theater",
+            "red": 160,
+            "green": 139,
+            "blue": 89
+        },
+        {
+            "name": "museum",
+            "icon": "museum",
+            "red": 255,
+            "green": 64,
+            "blue": 69
+        },
+        {
+            "name": "night club",
+            "icon": "night_club",
+            "red": 52,
+            "green": 199,
+            "blue": 255
+        },
+        {
+            "name": "park",
+            "icon": "park",
+            "red": 142,
+            "green": 250,
+            "blue": 255
+        },
+        {
+            "name": "parking",
+            "icon": "parking",
+            "red": 90,
+            "green": 200,
+            "blue": 89
+        },
+        {
+            "name": "pharmacy",
+            "icon": "pharmacy",
+            "red": 142,
+            "green": 250,
+            "blue": 0
+        },
+        {
+            "name": "pizza",
+            "icon": "pizza",
+            "red": 90,
+            "green": 200,
+            "blue": 250
+        },
+        {
+            "name": "place of worship",
+            "icon": "place_of_worship",
+            "red": 255,
+            "green": 200,
+            "blue": 0
+        },
+        {
+            "name": "police station",
+            "icon": "police_station",
+            "red": 160,
+            "green": 139,
+            "blue": 250
+        },
+        
+        {
+            "name": "post office",
+            "icon": "post_office",
+            "red": 90,
+            "green": 200,
+            "blue": 69
+        },
+        {
+            "name": "restaurant",
+            "icon": "restaurant",
+            "red": 255,
+            "green": 200,
+            "blue": 255
+        },
+        {
+            "name": "school",
+            "icon": "school",
+            "red": 160,
+            "green": 139,
+            "blue": 250
+        },
+        {
+            "name": "shopping mall",
+            "icon": "shopping_mall",
+            "red": 151,
+            "green": 124,
+            "blue": 69
+        },
+        {
+            "name": "spa",
+            "icon": "spa",
+            "red": 142 ,
+            "green": 138,
+            "blue": 255
+        },
+        {
+            "name": "stadium",
+            "icon": "stadium",
+            "red": 52,
+            "green": 199,
+            "blue": 234
+        },
+        {
+            "name": "subway station",
+            "icon": "subway_station",
+            "red": 255,
+            "green": 200,
+            "blue": 216
+        },
+        {
+            "name": "super market",
+            "icon": "super_market",
+            "red": 151,
+            "green": 124,
+            "blue": 89
+        },
+        {
+            "name": "taxi stand",
+            "icon": "taxi_stand",
+            "red": 255,
+            "green": 200,
+            "blue": 69
+        },
+        {
+            "name": "train station",
+            "icon": "train_station",
+            "red": 151,
+            "green": 124,
+            "blue": 234
+        },
+        {
+            "name": "travel agency",
+            "icon": "travel_agency",
+            "red": 52,
+            "green": 199,
+            "blue": 69
+        },
+        {
+            "name": "university",
+            "icon": "university",
+            "red": 131,
+            "green": 0,
+            "blue": 69
+        },
+        {
+            "name": "zoo",
+            "icon": "zoo",
+            "red": 52,
+            "green": 199,
+            "blue": 89
+        }
+        
+    ]
+}
+

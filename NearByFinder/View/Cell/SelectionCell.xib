@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" accessoryType="disclosureIndicator" indentationWidth="10" rowHeight="77" id="KGk-i7-Jjw" customClass="SelectionCell" customModule="NearByFinder" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="100"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="383" height="100"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="DLs-ys-inh">
+                        <rect key="frame" x="10" y="25" width="50" height="50"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="car_rental" translatesAutoresizingMaskIntoConstraints="NO" id="bIL-Bp-8HN">
+                                <rect key="frame" x="10" y="10" width="30" height="30"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="30" id="nmP-Ky-11W"/>
+                                    <constraint firstAttribute="height" constant="30" id="p5b-bo-gig"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.51556951540642537" green="0.0" blue="0.73899508248730972" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="bIL-Bp-8HN" firstAttribute="centerX" secondItem="DLs-ys-inh" secondAttribute="centerX" id="JvB-UM-xNW"/>
+                            <constraint firstItem="bIL-Bp-8HN" firstAttribute="centerY" secondItem="DLs-ys-inh" secondAttribute="centerY" id="arb-yD-oG0"/>
+                            <constraint firstAttribute="width" constant="50" id="vBi-0a-dhp"/>
+                            <constraint firstAttribute="height" constant="50" id="yP9-5w-0WW"/>
+                        </constraints>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Airport" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ph3-a0-6wA">
+                        <rect key="frame" x="70" y="35.5" width="303" height="29"/>
+                        <fontDescription key="fontDescription" name="Avenir-Book" family="Avenir" pointSize="21"/>
+                        <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="ph3-a0-6wA" firstAttribute="leading" secondItem="DLs-ys-inh" secondAttribute="trailing" constant="10" id="IY8-5I-aIV"/>
+                    <constraint firstItem="DLs-ys-inh" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="VH8-fA-hfm"/>
+                    <constraint firstItem="ph3-a0-6wA" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="Xxq-Hn-32J"/>
+                    <constraint firstAttribute="trailing" secondItem="ph3-a0-6wA" secondAttribute="trailing" constant="10" id="gx3-j7-aPU"/>
+                    <constraint firstItem="DLs-ys-inh" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="10" id="x2y-mj-uBX"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <inset key="separatorInset" minX="15" minY="0.0" maxX="0.0" maxY="0.0"/>
+            <connections>
+                <outlet property="imgIcon" destination="bIL-Bp-8HN" id="07s-ua-bkr"/>
+                <outlet property="lblName" destination="ph3-a0-6wA" id="G2H-pu-VoF"/>
+                <outlet property="viewContainer" destination="DLs-ys-inh" id="rcJ-mi-SjQ"/>
+            </connections>
+            <point key="canvasLocation" x="131.8840579710145" y="114.50892857142857"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="car_rental" width="50" height="50"/>
+    </resources>
+</document>

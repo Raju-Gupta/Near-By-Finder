@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-NearByFinder/Pods-NearByFinder-frameworks.sh
+${BUILT_PRODUCTS_DIR}/PullUpController/PullUpController.framework
+${BUILT_PRODUCTS_DIR}/RevealingSplashView/RevealingSplashView.framework
+${BUILT_PRODUCTS_DIR}/paper-onboarding/paper_onboarding.framework

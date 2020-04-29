@@ -1,0 +1,24 @@
+PODS:
+  - paper-onboarding (6.1.4)
+  - PullUpController (0.8.0)
+  - RevealingSplashView (0.6.0)
+
+DEPENDENCIES:
+  - paper-onboarding
+  - PullUpController
+  - RevealingSplashView
+
+SPEC REPOS:
+  trunk:
+    - paper-onboarding
+    - PullUpController
+    - RevealingSplashView
+
+SPEC CHECKSUMS:
+  paper-onboarding: d3f16416e6f42add686117e8b32bfffaad899a79
+  PullUpController: 2f7ccaa0f35b31b47e3efbe1854c7f781552b3c7
+  RevealingSplashView: 40c5a770894459736acdc95655eeba0dd30ce91c
+
+PODFILE CHECKSUM: d5ae9fdb8f162b865394b587e354cf3ce8380c53
+
+COCOAPODS: 1.8.4
