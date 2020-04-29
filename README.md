@@ -3,7 +3,7 @@
 Screen Shots
 
 Onboarding Screen:-
-![Simulator Screen Shot - iPhone 11 Pro Max - 2020-04-29 at 17 22 07](https://user-images.githubusercontent.com/59941334/80593232-76905f80-8a3e-11ea-9be0-7ba3fe62cf9f.png =842x2288)
+![](https://user-images.githubusercontent.com/59941334/80593232-76905f80-8a3e-11ea-9be0-7ba3fe62cf9f.png =842x2288)
 
 Home Screen:-
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2020-04-29 at 17 22 20](https://user-images.githubusercontent.com/59941334/80593236-77c18c80-8a3e-11ea-8133-016787cedf3c.png)
