@@ -1,6 +1,6 @@
 # Near-By-Finder
 
-<h5>Note:- This Project is in Swift 5 and Xcode 11.</h5>
+<h5>Note:- This Project is in Swift 5 and Xcode 11 with MapKit.</h5>
 
 <h3>Screen Shots</h3>
 
