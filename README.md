@@ -2,8 +2,8 @@
 
 Screen Shots
 
-Onboarding Screen:-
-<img src="https://user-images.githubusercontent.com/59941334/80593232-76905f80-8a3e-11ea-9be0-7ba3fe62cf9f.png" alt="alt text" width="414" height="750">
+<h5>Onboarding Screen:-</h5>
+<img src="https://user-images.githubusercontent.com/59941334/80593232-76905f80-8a3e-11ea-9be0-7ba3fe62cf9f.png" alt="Onboarding Screen" width="414" height="750">
 
 
 Home Screen:-
