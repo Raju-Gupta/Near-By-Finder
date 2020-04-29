@@ -2,7 +2,7 @@
 
 Screen Shots
 
-<img src="#" data-canonical-src="https://user-images.githubusercontent.com/59941334/80593232-76905f80-8a3e-11ea-9be0-7ba3fe62cf9f.png" width="250" height="250" />
+<img src="https://user-images.githubusercontent.com/59941334/80593232-76905f80-8a3e-11ea-9be0-7ba3fe62cf9f.png" alt="alt text" width="842" height="2288">
 Onboarding Screen:-
 ![](https://user-images.githubusercontent.com/59941334/80593232-76905f80-8a3e-11ea-9be0-7ba3fe62cf9f.png =842x2288)
 
